@@ -1,0 +1,13 @@
+.card-img{
+    height: 350px;
+    object-fit: contain;
+}
+.card-text{
+    text-align: justify;
+}
+.card-title{
+    text-align: center;
+}
+.card-title h1:hover{
+    color: pink;
+}

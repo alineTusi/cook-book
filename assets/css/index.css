@@ -1,0 +1,10 @@
+.menu-container img{
+    height: 550px;
+    object-fit: cover;
+}
+.d-flex{
+    padding: 2%;
+}
+.d-flex:hover{
+    color: pink;
+}
